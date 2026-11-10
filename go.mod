@@ -1,3 +1,3 @@
-module github.com/ellyj164/smsgora-go
+module github.com/tekservixhq/smsgora-go
 
 go 1.21
