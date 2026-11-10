@@ -1,6 +1,6 @@
 # SMS Gora Go client
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/ellyj164/smsgora-go.svg)](https://pkg.go.dev/github.com/ellyj164/smsgora-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/tekservixhq/smsgora-go.svg)](https://pkg.go.dev/github.com/tekservixhq/smsgora-go)
 
 Go client for the [SMS Gora SMS Gateway](https://tekservix.com/smsgora/) API.
 
@@ -13,7 +13,7 @@ SMS Gora turns Android phones with ordinary SIM cards into an SMS gateway. Your 
 ## Install
 
 ```bash
-go get github.com/ellyj164/smsgora-go
+go get github.com/tekservixhq/smsgora-go
 ```
 
 ## Quick start
@@ -29,7 +29,7 @@ import (
 	"log"
 	"os"
 
-	smsgora "github.com/ellyj164/smsgora-go"
+	smsgora "github.com/tekservixhq/smsgora-go"
 )
 
 func main() {
@@ -135,7 +135,7 @@ SMS Gora accepts TextBee-style requests, so most integrations switch by changing
 
 ## More from Tekservix
 
-- [WAservix WhatsApp API Gateway](https://tekservix.com/waservix/): send WhatsApp messages from your own number (`go get github.com/ellyj164/waservix-go`)
+- [WAservix WhatsApp API Gateway](https://tekservix.com/waservix/): send WhatsApp messages from your own number (`go get github.com/tekservixhq/waservix-go`)
 - [AI Sales Agent](https://tekservix.com/ai-sales-agent): answers customers on WhatsApp and SMS using your website's content
 - [Website to App](https://tekservix.com/mobile-apps): turn your website into Android and iOS apps
 - SMS Gora is also available for Node.js (`npm install smsgora`), Python (`pip install smsgora`) and PHP (`composer require tekservix/smsgora`)
