@@ -2,6 +2,8 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/tekservixhq/smsgora-go.svg)](https://pkg.go.dev/github.com/tekservixhq/smsgora-go)
 
+**SMS Gora SMS Gateway** - official Go client: send and receive SMS through your own Android phones. By Tekservix.
+
 Go client for the [SMS Gora SMS Gateway](https://tekservix.com/smsgora/) API.
 
 SMS Gora turns Android phones with ordinary SIM cards into an SMS gateway. Your server calls the API, a linked phone sends the text, and replies and delivery reports come back to you. There's no sender ID registration and no per-message fee from us: your mobile operator bills the texts like any SMS.
